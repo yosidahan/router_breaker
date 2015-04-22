@@ -1,5 +1,5 @@
 # router_breaker
-Find routers/modems available publicly and are open to default username/password
+Find routers/modems publicly available and are vulnerable to default username/password
 
 # Usage
 ```
